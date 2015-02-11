@@ -1,0 +1,26 @@
+{
+  "name": "cp-persistant",
+  "version": "0.0.0",
+  "description": "Copy files but be extremely tolerant of errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hash-bang/cp-persistant"
+  },
+  "keywords": [
+    "copy"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/cp-persistant/issues"
+  },
+  "homepage": "https://github.com/hash-bang/cp-persistant",
+  "dependencies": {
+    "async-chainable": "~1.7.1",
+    "colors": "~1.0.3"
+  }
+}
